@@ -1,3 +1,6 @@
+## How to execute
+In order to avoid unnecessary operations, the data import and formatting as been aggregated in main.R, which in turn calls each of the plot production functions, though they can be run individually to produce individual plots.
+
 ## Introduction
 
 This assignment uses data from
